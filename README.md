@@ -10,7 +10,7 @@ The controller regulates the fan speed using PWM, and the full PWM range (0 - 10
 
 See the detailed review of the project on my YT-channel (English subtitles): https://youtu.be/6zM7jxHXjjU
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6zM7jxHXjjU/maxresdefault.jpg)](https://www.youtube.com/watch?v=6zM7jxHXjjU)
+[![Click to see](https://img.youtube.com/vi/6zM7jxHXjjU/maxresdefault.jpg)](https://www.youtube.com/watch?v=6zM7jxHXjjU)
 
 <h1>Details</h1>
 This code is written for the ATtiny10 microcontroller and as a starting point, you can refer to my project, designed for use in various household and professional equipment (e.g. LAB PSUs) and requiring two voltages for its power supply (5V and any other voltage in the 4-18V range required for your fan): https://easyeda.com/sneer2sneer/ATtiny10-Fan-Controller
